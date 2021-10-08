@@ -1,4 +1,4 @@
-## Python Monitoring System
+# Python Monitoring 
 
 For the software design and engineering part of my portfolio, I chose to enhance my IT:145 final project created in April of 2019. 
 This project is a simple monitoring system that allows you to monitor animals and habitats. 
