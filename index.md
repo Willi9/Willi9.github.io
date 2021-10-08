@@ -3,9 +3,9 @@
 Under construction... 
 
 
-- [Python Monitoring System](https://github.com/Willi9/Willi9.github.io/blob/main/PythonMonitoringSystem.md)
-- [Voting Hashtable](https://github.com/Willi9/VotingHashtable)
-- [Covid Results](https://github.com/Willi9/CovidResults)
+- [Python Monitoring System](https://willi9.github.io/PythonMonitoringSystem.html)
+- [Voting Hashtable](https://willi9.github.io/VotingHashtable)
+- [Covid Results](https://willi9.github.io/CovidResults)
 
 
 
