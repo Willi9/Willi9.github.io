@@ -1,5 +1,5 @@
-# Python Monitoring System
-## Narrative
+## Python Monitoring System
+### Narrative
 For the software design and engineering part of my portfolio, I chose to enhance my IT:145 final project created in April of 2019. 
 This project is a simple monitoring system that allows you to monitor animals and habitats. 
 The user gets asked if they would like to monitor animals or habitats. After they make the initial choice, the user is presented with the different animals or habitats that they can select.
@@ -17,7 +17,7 @@ As I modified my project, I noticed that a lot of similarities in how the struct
 Some of the biggest struggles that I had while developing the project in Python was figuring out how to read the text file correctly. 
 There are several ways to read the contents of a file in python and I had to go through several strategies until I managed to get the correct behavior from my project.
 
-## Repository
+### Repository
 [Python Monitoring System](https://github.com/Willi9/PythonMonitoringSystem)
 
 ### Porfolio Links
