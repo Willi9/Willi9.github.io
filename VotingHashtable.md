@@ -12,7 +12,7 @@ As I developed the enhancement for this project, I internalized how structures i
 The way that I fixed this bug was to make the unique keys only numbers and not include any alphabetical or symbol characters. This was a really good developing experience and I enjoyed it. 
 
 # Repository
-[Python Monitoring System](https://github.com/Willi9/VotingHasthable)
+[Voting Hashtable](https://github.com/Willi9/VotingHashtable)
 
 ## Portfolio Links
 - [Introduction](https://willi9.github.io/index.html)
