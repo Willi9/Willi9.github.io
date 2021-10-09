@@ -21,7 +21,7 @@ There are several ways to read the contents of a file in python and I had to go 
 [Python Monitoring System](https://github.com/Willi9/PythonMonitoringSystem)
 
 ### Porfolio Links
-- [Introduction](https://github.com/index.html)
-- place holder for links 
+- [Introduction](https://willi9.github.io/index.html)
+- [Python Monitoring System](https://willi9.github.io/PythonMonitoringSystem.html)
 - Place holder for links 
 - place holder for links 
