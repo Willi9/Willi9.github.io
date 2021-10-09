@@ -1,4 +1,4 @@
-# 2020 Voting Responce Rates for Dallas Texas
+# 2020 Voting Response Rates for Dallas Texas
 The artifact that I have chosen for the algorithm and data structures part of my portfolio is the implementation of a hash table with chaining. This artifact takes data from a CSV file and allows the user to quickly search through the data. 
 I included this artifact in my portfolio because hash tables with chaining are one of the most effective and fastest ways to look search through data. 
 This artifact shows my knowledge of hash tables and linked lists. It provides an opportunity to show that I know how I can combine two data structure to create a very effective search algorithm.
