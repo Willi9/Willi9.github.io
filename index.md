@@ -8,6 +8,7 @@ The program at SNHU has taught me valuable skills that I will build upon. Each c
 Every class and step I took in my educational journey have prepared me for a successful career in tech. Each class taught me many important things and the portfolio is a small reflection of the immense potential that I have. This portfolio has three main artifacts that show my abilities and a code review. The code review explains the artifacts before the enhancements were made and how each artifact will work. The first artifact builds upon my IT145 class where I learned about object-oriented programing. I took the final project that was written in Java, and I rewrote the entire project in Python. My second artifact I created a hash table with chaining that lets someone search through real world data. The third artifact I create a visual representation of covid cases and covid deaths using a NoSQL.  Each of the artifacts show cases different skills that are great to have for any project. 
 
 # Portfolio
+- [Code Review and Refinement plan](https://willi9.github.io/CodeReview.html)
 - [Python Monitoring System](https://willi9.github.io/PythonMonitoringSystem.html)
 - [Voting Hashtable](https://willi9.github.io/VotingHashtable)
 - [Covid Results](https://willi9.github.io/CovidResults)
