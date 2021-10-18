@@ -1,7 +1,7 @@
 # Covid Database Mining
 
 The artifact that I chose to develop is from my CS340 class, it is called Animal Shelter. It takes data from an animal shelter and displays the information.
-The artifact that I am uploading to my portfolio uses the same techniques as the animal shelter . 
+The artifact that I am uploading to my portfolio uses the same techniques as the animal shelter project. 
 The artifact extracts data from a MongoDB database and displays a pie chart that represents the percentages of cases by race of Covid-19 and a pie chart that represents the percentages of deaths by race of Covid-19.
 
 The artifact is a great artifact to add to my portfolio because it shows my ability to extract and upload data to and from a MongoDB database. It shows that I can extract data and give it meaning.
@@ -17,8 +17,9 @@ I also learned how Matlabplot works to create subplots and other charts! The dev
 ### Repository
 [Covid-19 Data Mining](https://github.com/Willi9/CovidResults)
 
-### Porfolio Links
+## Porfolio Links
 - [Introduction](https://willi9.github.io/index.html)
+- [Code Review and Refinement plan](https://willi9.github.io/CodeReview.html)
 - [Python Monitoring System](https://willi9.github.io/PythonMonitoringSystem.html)
 - [Voting Hashtable](https://willi9.github.io/VotingHashtable)
-- [Covid Results](https://willi9.github.io/CovidResults)
+
