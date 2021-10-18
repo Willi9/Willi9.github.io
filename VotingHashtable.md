@@ -14,8 +14,8 @@ The way that I fixed this bug was to make the unique keys only numbers and not i
 # Repository
 [Voting Hashtable](https://github.com/Willi9/VotingHashtable)
 
-## Portfolio Links
+## Porfolio Links
 - [Introduction](https://willi9.github.io/index.html)
+- [Code Review and Refinement plan](https://willi9.github.io/CodeReview.html)
 - [Python Monitoring System](https://willi9.github.io/PythonMonitoringSystem.html)
-- [Voting Hashtable](https://willi9.github.io/VotingHashtable)
 - [Covid Results](https://willi9.github.io/CovidResults)
